@@ -1,7 +1,7 @@
 # Intro-to-Gemini-with-Python
 ---
 
- with Google Generative AI 🤖
+🖼️ Image & Prompt-Based Content Generation with Google Generative AI 🤖
 Welcome to the Image & Prompt-Based Content Generation repository! 🚀 This project demonstrates how to use Google's Generative AI model to generate detailed descriptions not only from images but also from text prompts. This powerful tool is useful for tasks such as automated image analysis, content creation, and more! 🎨💡
 
 ---
